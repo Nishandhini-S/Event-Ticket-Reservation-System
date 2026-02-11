@@ -11,13 +11,13 @@ The Event Ticket Reservation System (ETR) is a Java-based console application th
 
 ### Features
 
-   ✔ User validation before booking
-   ✔ Event availability checking
-   ✔ Seat booking with automatic fare calculation
-   ✔ Unique Booking ID generation using UUID
-   ✔ Booking cancellation with seat restoration
-   ✔ Custom exception handling
-   ✔ Display all bookings of a user
+   - User validation before booking
+   - Event availability checking
+   - Seat booking with automatic fare calculation
+   - Unique Booking ID generation using UUID
+   - Booking cancellation with seat restoration
+   - Custom exception handling
+   - Display all bookings of a user
 
 ### OUTPUT
 
