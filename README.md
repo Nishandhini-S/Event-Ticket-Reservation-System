@@ -3,11 +3,11 @@
 The Event Ticket Reservation System (ETR) is a Java-based console application that allows users to book and cancel tickets for different events.
 
 ### This project demonstrates:
-     - Object-Oriented Programming (OOP)
-     - Exception Handling
-     - Collection Framework (ArrayList)
-     - Service Layer Architecture
-     - UUID-based Booking ID generation
+      Object-Oriented Programming (OOP)
+      Exception Handling
+      Collection Framework (ArrayList)
+      Service Layer Architecture
+      UUID-based Booking ID generation
 
 ### Features
 
